@@ -1,5 +1,4 @@
 # Samantha Pimentel
-![image alt] (https://github.com/SamanthaPimentel/Samantha-Pimentel/blob/6f020c4088143dccf45a6e12c055be722b1a129e/baner_DA_samantha.png)
 ## 🖥️ About Me
 I'm egresada de la Licenciatura de Ciencias Politicas y Administracion Publica, apasionada en el tema de analisi de datos y la gestión. Me motiva estar en constante busqueda de información, soy algo autodidacta. Agradezco los comentari para mejorar y tomo en cuenta otros puntos de vista, porque se que las cosas no son en un solo color y tono. 
 Actualmente soy Analista de Datos Jr. con conocimiento en SQL, Python y Pandas. 
